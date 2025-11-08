@@ -1,0 +1,28 @@
+@model Szuhafo.Module.ViewModels.FoglalasPartViewModel
+
+@using Microsoft.Extensions.Localization
+@inject IStringLocalizer<Szuhafo.Module.Startup> T
+
+<fieldset class="form-group" asp-validation-class-for="Nev">
+    <label asp-for="Nev">@T["Név"] <span asp-validation-for="Nev" class="text-danger"></span></label>
+    <input type="text" asp-for="Nev" class="form-control" />
+    <span class="hint">@T["A foglalást végzõ személy teljes neve."]</span>
+</fieldset>
+
+<fieldset class="form-group" asp-validation-class-for="Email">
+    <label asp-for="Email">@T["E-mail cím"] <span asp-validation-for="Email" class="text-danger"></span></label>
+    <input type="email" asp-for="Email" class="form-control" />
+    <span class="hint">@T["A kapcsolattartáshoz szükséges e-mail cím."]</span>
+</fieldset>
+
+<fieldset class="form-group" asp-validation-class-for="Erkezes">
+    <label asp-for="Erkezes">@T["Érkezés idõpontja"] <span asp-validation-for="Erkezes" class="text-danger"></span></label>
+    <input type="datetime-local" asp-for="Erkezes" class="form-control" />
+    <span class="hint">@T["A tervezett érkezés dátuma és idõpontja."]</span>
+</fieldset>
+
+<fieldset class="form-group" asp-validation-class-for="Tavozas">
+    <label asp-for="Tavozas">@T["Távozás idõpontja"] <span asp-validation-for="Tavozas" class="text-danger"></span></label>
+    <input type="datetime-local" asp-for="Tavozas" class="form-control" />
+    <span class="hint">@T["A tervezett távozás dátuma és idõpontja."]</span>
+</fieldset>
