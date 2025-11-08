@@ -34,9 +34,12 @@ namespace Szuhafo.Module.Drivers
             var viewModel = new FoglalasPartViewModel();
             await updater.TryUpdateModelAsync(viewModel, Prefix);
 
-            // Populate part from view model here.
+            part.Nev = viewModel.Nev;
+            part.Email = viewModel.Email;
+            part.Erkezes = viewModel.Erkezes;
+            part.Tavozas = viewModel.Tavozas;
 
-            return Edit(part, context);
+            return await EditAsync(part, context);
         }
 
         private static void PopulateViewModel(FoglalasPart part, FoglalasPartViewModel viewModel)
