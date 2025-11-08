@@ -1,0 +1,128 @@
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\bin\Debug\net8.0\Szuhafo.Module.staticwebassets.endpoints.json
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\bin\Debug\net8.0\Szuhafo.Module.deps.json
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\bin\Debug\net8.0\Szuhafo.Module.dll
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\bin\Debug\net8.0\Szuhafo.Module.pdb
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.csproj.AssemblyReference.cache
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.AssemblyInfoInputs.cache
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.AssemblyInfo.cs
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.csproj.CoreCompileInputs.cache
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.RazorAssemblyInfo.cache
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.RazorAssemblyInfo.cs
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.sourcelink.json
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\scopedcss\bundle\Szuhafo.Module.styles.css
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets\msbuild.Szuhafo.Module.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets\msbuild.Szuhafo.Module.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets\msbuild.build.Szuhafo.Module.props
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Szuhafo.Module.props
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Szuhafo.Module.props
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.dll
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\refint\Szuhafo.Module.dll
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.pdb
+C:\Users\PL\Documents\temp repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\ref\Szuhafo.Module.dll
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\bin\Debug\net8.0\Szuhafo.Module.staticwebassets.endpoints.json
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\bin\Debug\net8.0\Szuhafo.Module.deps.json
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\bin\Debug\net8.0\Szuhafo.Module.dll
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\bin\Debug\net8.0\Szuhafo.Module.pdb
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.csproj.AssemblyReference.cache
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.AssemblyInfoInputs.cache
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.AssemblyInfo.cs
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.csproj.CoreCompileInputs.cache
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.RazorAssemblyInfo.cache
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.RazorAssemblyInfo.cs
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.sourcelink.json
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\scopedcss\bundle\Szuhafo.Module.styles.css
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets\msbuild.Szuhafo.Module.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets\msbuild.Szuhafo.Module.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets\msbuild.build.Szuhafo.Module.props
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Szuhafo.Module.props
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Szuhafo.Module.props
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.dll
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\refint\Szuhafo.Module.dll
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.pdb
+C:\Users\PL\OneDrive - Óbudai Egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\ref\Szuhafo.Module.dll
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\bin\Debug\net8.0\Szuhafo.Module.staticwebassets.endpoints.json
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\bin\Debug\net8.0\Szuhafo.Module.deps.json
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\bin\Debug\net8.0\Szuhafo.Module.dll
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\bin\Debug\net8.0\Szuhafo.Module.pdb
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.csproj.AssemblyReference.cache
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.AssemblyInfoInputs.cache
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.AssemblyInfo.cs
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.csproj.CoreCompileInputs.cache
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.RazorAssemblyInfo.cache
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.RazorAssemblyInfo.cs
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.sourcelink.json
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\scopedcss\bundle\Szuhafo.Module.styles.css
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets\msbuild.Szuhafo.Module.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets\msbuild.Szuhafo.Module.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets\msbuild.build.Szuhafo.Module.props
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Szuhafo.Module.props
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Szuhafo.Module.props
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.dll
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\refint\Szuhafo.Module.dll
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.pdb
+C:\Users\porle\OneDrive - Óbudai egyetem\3. felev\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\ref\Szuhafo.Module.dll
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\bin\Debug\net8.0\Szuhafo.Module.staticwebassets.endpoints.json
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\bin\Debug\net8.0\Szuhafo.Module.deps.json
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\bin\Debug\net8.0\Szuhafo.Module.dll
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\bin\Debug\net8.0\Szuhafo.Module.pdb
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.csproj.AssemblyReference.cache
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.AssemblyInfoInputs.cache
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.AssemblyInfo.cs
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.csproj.CoreCompileInputs.cache
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.RazorAssemblyInfo.cache
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.RazorAssemblyInfo.cs
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.sourcelink.json
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\scopedcss\bundle\Szuhafo.Module.styles.css
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets\msbuild.Szuhafo.Module.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets\msbuild.Szuhafo.Module.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets\msbuild.build.Szuhafo.Module.props
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Szuhafo.Module.props
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Szuhafo.Module.props
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.dll
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\refint\Szuhafo.Module.dll
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\Szuhafo.Module.pdb
+C:\Users\porle\source\repos\Szuhafo_Booking\src\Modules\Szuhafo.Module\obj\Debug\net8.0\ref\Szuhafo.Module.dll
