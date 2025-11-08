@@ -19,7 +19,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Szuhafo.Module")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17662a11183231b8c2ad94d97d916e19883b3385")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f5e7e895fea902a4dc0e54209a69d59f30373f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Szuhafo.Module")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Szuhafo.Module")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

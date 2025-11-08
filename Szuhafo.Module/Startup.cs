@@ -10,6 +10,7 @@ using Szuhafo.Module.Models;
 using OrchardCore.Shortcodes;
 using OrchardCore.ContentManagement.Display.ContentDisplay;
 using Szuhafo.Module.Drivers;
+using Szuhafo.Module.Handlers;
 
 namespace Szuhafo.Module;
 
@@ -17,7 +18,10 @@ public sealed class Startup : StartupBase
 {
     public override void ConfigureServices(IServiceCollection services)
     {
-        services.AddContentPart<FoglalasPart>().UseDisplayDriver<FoglalasPartDisplayDriver>();
+        services
+            .AddContentPart<FoglalasPart>()
+            .UseDisplayDriver<FoglalasPartDisplayDriver>()
+            .AddHandler<FoglalasPartHandler>();
         services.AddScoped<IDataMigration, FoglalasMigrations>();
     }
 
