@@ -1,4 +1,4 @@
-@model Szuhafo.Module.ViewModels.FoglalasPartViewModel
+@* @model Szuhafo.Module.ViewModels.FoglalasPartViewModel
 
 @using Microsoft.Extensions.Localization
 @inject IStringLocalizer<Szuhafo.Module.Startup> T
@@ -25,4 +25,4 @@
     <label asp-for="Tavozas">@T["Távozás idõpontja"] <span asp-validation-for="Tavozas" class="text-danger"></span></label>
     <input type="datetime-local" asp-for="Tavozas" class="form-control" />
     <span class="hint">@T["A tervezett távozás dátuma és idõpontja."]</span>
-</fieldset>
+</fieldset> *@
