@@ -1,0 +1,11 @@
+@using Szuhafo.Module.ViewModels
+@model FoglalasPartViewModel
+
+<div class="foglalas-part">
+    <h3>@T["Foglalás részletei"]</h3>
+
+    <div>@T["Név: {0}", Model.Nev]</div>
+    <div>@T["E-mail cím: {0}", Model.Email]</div>
+    <div>@T["Érkezés idõpontja: {0}", Model.Erkezes?.ToString("yyyy-MM-dd HH:mm")]</div>
+    <div>@T["Távozás idõpontja: {0}", Model.Tavozas?.ToString("yyyy-MM-dd HH:mm")]</div>
+</div>

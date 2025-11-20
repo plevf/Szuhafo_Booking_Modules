@@ -12,14 +12,18 @@ using System;
 using System.Reflection;
 
 [assembly: OrchardCore.Modules.Manifest.ModuleMarkerAttribute("Szuhafo.Module", "Module")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas\\Szuhafo.Module\\Views\\FoglalasPart.cshtml|C:\\Users\\porle\\source\\repos\\Szuhaf" +
+    "o_Booking\\src\\Modules\\Szuhafo.Module\\Views\\FoglalasPart.cshtml")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas\\Szuhafo.Module\\Views\\FoglalasPart.Edit.cshtml|C:\\Users\\porle\\source\\repos\\S" +
     "zuhafo_Booking\\src\\Modules\\Szuhafo.Module\\Views\\FoglalasPart.Edit.cshtml")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas\\Szuhafo.Module\\Views\\Home\\Index.cshtml|C:\\Users\\porle\\source\\repos\\Szuhafo_" +
     "Booking\\src\\Modules\\Szuhafo.Module\\Views\\Home\\Index.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas\\Szuhafo.Module\\Views\\_ViewImports.cshtml|C:\\Users\\porle\\source\\repos\\Szuhaf" +
+    "o_Booking\\src\\Modules\\Szuhafo.Module\\Views\\_ViewImports.cshtml")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Szuhafo.Module")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91a829bdd360d67428233349a41587a2665f4456")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+290b3d2ab0096748f3a86c30a10d523d16e91a1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Szuhafo.Module")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Szuhafo.Module")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

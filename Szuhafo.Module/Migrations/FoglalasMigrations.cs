@@ -1,11 +1,12 @@
-﻿using System;
+﻿using OrchardCore.ContentFields.Settings;
+using OrchardCore.ContentManagement.Metadata;
+using OrchardCore.ContentManagement.Metadata.Settings;
+using OrchardCore.Data.Migration;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using OrchardCore.Data.Migration;
-using OrchardCore.ContentManagement.Metadata;
-using OrchardCore.ContentManagement.Metadata.Settings;
 using Szuhafo.Module.Models;
 
 namespace Szuhafo.Module.Migrations
@@ -22,12 +23,39 @@ namespace Szuhafo.Module.Migrations
         public int Create()
         {
             _contentDefinitionManager.AlterPartDefinitionAsync(nameof(FoglalasPart), part => part
-                .Attachable()
-                .WithField("Nev", field => field.OfType("TextField").WithDisplayName("Név"))
-                .WithField("Email", field => field.OfType("TextField").WithDisplayName("Email"))
-                .WithField("Erkezes", field => field.OfType("DateTimeField").WithDisplayName("Érkezés"))
-                .WithField("Tavozas", field => field.OfType("DateTimeField").WithDisplayName("Távozás"))
-            );
+                .WithField("Nev", field => field
+                .OfType("TextField")
+                .WithDisplayName("Név")
+                .WithSettings(new TextFieldSettings
+                {
+                    Hint = "Adja meg a nevet."
+                })
+            )
+            .WithField("Email", field => field
+                .OfType("TextField")
+                .WithDisplayName("E-mail cím")
+                .WithSettings(new TextFieldSettings
+                {
+                    Hint = "Adja meg az e-mail címet."
+                })
+            )
+            .WithField("Erkezes", field => field
+                .OfType("DateTimeField")
+                .WithDisplayName("Érkezés")
+                .WithSettings(new DateTimeFieldSettings
+                {
+                    Hint = "Válassza ki az érkezés időpontját."
+                })
+            )
+            .WithField("Tavozas", field => field
+                .OfType("DateTimeField")
+                .WithDisplayName("Távozás")
+                .WithSettings(new DateTimeFieldSettings
+                {
+                    Hint = "Válassza ki a távozás időpontját."
+                })
+            )
+        );
 
             _contentDefinitionManager.AlterTypeDefinitionAsync("FoglalasPage", type => type
             .Creatable()
