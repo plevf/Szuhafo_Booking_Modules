@@ -23,7 +23,7 @@ namespace Szuhafo.Module.Migrations
         public int Create()
         {
             _contentDefinitionManager.AlterPartDefinitionAsync(nameof(FoglalasPart), part => part
-                .WithField("Nev", field => field
+            .WithField("Nev", field => field
                 .OfType("TextField")
                 .WithDisplayName("Név")
                 .WithSettings(new TextFieldSettings

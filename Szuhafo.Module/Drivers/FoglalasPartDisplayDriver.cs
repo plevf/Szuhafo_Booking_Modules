@@ -29,7 +29,7 @@ namespace Szuhafo.Module.Drivers
                 viewModel => PopulateViewModel(part, viewModel))
                 .Location("Content: 5");
 
-        public async Task<IDisplayResult> UpdateAsync(FoglalasPart part, IUpdateModel updater, UpdatePartEditorContext context)
+        public async Task<IDisplayResult> UpdateAsync(FoglalasPart part, IUpdateModel updater, UpdatePartEditorContext context) // override?
         {
             var viewModel = new FoglalasPartViewModel();
             await updater.TryUpdateModelAsync(viewModel, Prefix);
